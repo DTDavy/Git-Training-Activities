@@ -1,0 +1,5 @@
+"There is nothing worse than aggressive stupidity." - Goethe
+"Life is pleasant. Death is peaceful. It's the transition that's troublesome." - Asimov
+
+I prefer C# using mysql and AWS
+
